@@ -1,5 +1,6 @@
 # The-Sparks-Foundation-Tasks
-Contains : The tasks that I completed while working as an intern for The Sparks Foundation.
+Contains : The tasks that I completed while working as an intern for The Sparks Foundation.                                              ![image](https://user-images.githubusercontent.com/77754719/144381194-56497c25-de04-4cae-9de5-4350b36809f5.png)
+
 
 * Internship Category - Web and Mobile Development Tasks
 
