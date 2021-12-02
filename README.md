@@ -5,7 +5,7 @@ Contains : The tasks that I completed while working as an intern for [The Sparks
 
 * Internship Category - Web and Mobile Development Tasks
 
-#TASK-1 : CI-CD-Cloud-computing-The-Sparks-Foundation
+### # Task-1 : CI-CD-Cloud-computing-The-Sparks-Foundation
 
 1. Read up about AWS or Azure.
 2. Writing steps of setup and essentials of AWS EC2 or Azure VM.
