@@ -3,7 +3,7 @@
 # The-Sparks-Foundation-Tasks
 Contains : The tasks that I completed while working as an intern for [The Sparks Foundation.](https://www.thesparksfoundationsingapore.org/)
 
-* Internship Category - Web and Mobile Development Tasks
+* _Internship Category_ - Web and Mobile Development Tasks
 
 ### # Task-1 : CI-CD-Cloud-computing-The-Sparks-Foundation
 
